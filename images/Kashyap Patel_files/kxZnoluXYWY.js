@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["3w8ow"]); }
+
+__d("WebMessengerConfirmBlockDialog",["fbt","React","SimpleXUIDialog","XUIDialogButton.react"],(function(a,b,c,d,e,f,g){"use strict";a={show:function(a){a=a&&a.length>0?g._("You have blocked {name}",[g._param("name",a)]):g._("You have blocked the sender");var c=g._("You can access messages you've blocked by going to the Filtered Messages list."),d=b("React").createElement("div",null,b("React").createElement(b("XUIDialogButton.react"),{action:"cancel",label:g._("OK"),use:"confirm"}));b("SimpleXUIDialog").showEx(c,a,d)}};e.exports=a}),null);

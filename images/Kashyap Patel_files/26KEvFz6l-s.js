@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["9TvkD"]); }
+
+__d("NotificationAsyncWrapper",["NotificationListConfig","React"],(function(a,b,c,d,e,f){"use strict";__p&&__p();b("NotificationListConfig").reactFiberAsyncNotifications?a=b("React").unstable_AsyncMode:a=function(){__p&&__p();var a;a=babelHelpers.inherits(c,b("React").Component);a&&a.prototype;c.prototype.render=function(){"use strict";return this.props.children};function c(){"use strict";a.apply(this,arguments)}return c}();e.exports=a}),null);

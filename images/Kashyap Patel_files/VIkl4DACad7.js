@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["o+uVP"]); }
+
+__d("NotificationBucketGeneric.react",["cx","NotificationJewelListBucketHeader.react","React"],(function(a,b,c,d,e,f,g){"use strict";__p&&__p();var h;h=babelHelpers.inherits(a,b("React").Component);h&&h.prototype;a.prototype.render=function(){var a=this.props,c=a.title,d=a.ids,e=a.listRenderer;a=a.startIndex;if(d.length===0)return null;e=e(d,a);return b("React").createElement("div",{className:"_32hm"},c?b("React").createElement(b("NotificationJewelListBucketHeader.react"),{title:c}):null,b("React").createElement("ul",null,e))};function a(){h.apply(this,arguments)}e.exports=a}),null);

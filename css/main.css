@@ -38,7 +38,7 @@ html { font-size: 100%;
 	text-rendering: optimizelegibility; 
 }
 body {
-	color:#888089;
+	color:#000;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	position:relative;
@@ -544,7 +544,7 @@ header{
 	font-family:'Crimson Text',serif;
 	font-size:21px;
 	line-height:24px;
-	color:#5b4c5c;
+	color:#000;
 	font-style:italic;
 }
 .expertiesdesc {
@@ -558,14 +558,14 @@ header{
 .expertiesdesc h4 {
 	font-size:14px;
 	font-weight:300;
-	color:#UIzards;
+	color:#000;
 	line-height:normal;
 	text-transform:uppercase;
 	letter-spacing:2px;
 }
 .expertiesdesc h5 {
 	font-family: 'Crimson Text', serif;
-	color:#5b4c5c;
+	color:#000;
 	font-size:18px;
 	font-style:italic;
 	font-weight:400;

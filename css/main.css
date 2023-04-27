@@ -431,8 +431,8 @@ header{
 	text-align:left;
 }
 .aboutus .container{
-	padding-top:80px ;
-	padding-bottom:47px ;
+	padding-top:20px ;
+	padding-bottom:20px ;
 }
 .aboutus img {
 	padding:7px;
@@ -471,8 +471,8 @@ header{
 	width:100%;
 }
 .skillset .container{
-	padding-top:66px ;
-	padding-bottom:64px ;
+	padding-top:20px ;
+	padding-bottom:20px ;
 }
 .skillbar {
 	position:relative;
@@ -534,7 +534,7 @@ header{
 	background:#fff;
 }
 .myexperties .container{
-	padding-top:67px ;
+	padding-top:27px ;
 	padding-bottom:0 ;
 	margin-bottom:-20px;
 }
@@ -550,7 +550,7 @@ header{
 .expertiesdesc {
 	border-left:2px solid #ada5ad;
 	padding:0 0 0 69px;
-	margin-bottom:100px;
+	margin-bottom:40px;
 }
 .expertiesdesc p {
 	padding-bottom:0;
@@ -873,7 +873,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 	background:#f8f8f8;
 }
 .contact .container{
-	padding-top:75px;
+	padding-top:20px;
 	padding-bottom:0;
 }
 .mapArea{
